@@ -1,0 +1,34 @@
+{
+    "data1_fields": {
+        "skills_fields": [
+            "what skills would you like to mentor"
+        ],
+        "location_fields": [
+            "residence county",
+            "residence sub-county"
+        ],
+        "demographics_fields": [
+            "gender",
+            "year of birth"
+        ],
+        "preferred_mentorship_mode": [
+            "preferred mode of mentorship"
+        ]
+    },
+    "data2_fields": {
+        "skills_fields": [
+            "whats your area of interest?"
+        ],
+        "location_fields": [
+            "county of residence",
+            "sub county of residence (sub counties in mombasa)"
+        ],
+        "demographics_fields": [
+            "gender",
+            "year of birth"
+        ],
+        "preferred_mentorship_mode": [
+            "mode of mentorship ( remote / physical / any)"
+        ]
+    }
+}
