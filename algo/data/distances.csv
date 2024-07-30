@@ -1,0 +1,43 @@
+Mentee Sub-County,Mentor Sub-County,Distance (meters)
+Mvita,Nyali,311
+Mvita,Mvita,0
+Mvita,Likoni,9889
+Mvita,Kisauni,5130
+Mvita,Changamwe,11070
+Mvita,Jomvu,14944
+Kisauni,Nyali,4808
+Kisauni,Mvita,5120
+Kisauni,Likoni,8533
+Kisauni,Kisauni,0
+Kisauni,Changamwe,9715
+Kisauni,Jomvu,13589
+Likoni,Nyali,11527
+Likoni,Mvita,11839
+Likoni,Likoni,0
+Likoni,Kisauni,10432
+Likoni,Changamwe,12484
+Likoni,Jomvu,16357
+Changamwe,Nyali,10678
+Changamwe,Mvita,10990
+Changamwe,Likoni,10536
+Changamwe,Kisauni,9583
+Changamwe,Changamwe,0
+Changamwe,Jomvu,5581
+Jomvu,Nyali,14542
+Jomvu,Mvita,14853
+Jomvu,Likoni,14399
+Jomvu,Kisauni,13446
+Jomvu,Changamwe,5612
+Jomvu,Jomvu,0
+Nyali,Nyali,0
+Nyali,Mvita,311
+Nyali,Likoni,9577
+Nyali,Kisauni,4819
+Nyali,Changamwe,10759
+Nyali,Jomvu,14633
+Others (Outside Mombasa),Nyali,4460
+Others (Outside Mombasa),Mvita,4771
+Others (Outside Mombasa),Likoni,5222
+Others (Outside Mombasa),Kisauni,3364
+Others (Outside Mombasa),Changamwe,6336
+Others (Outside Mombasa),Jomvu,10210

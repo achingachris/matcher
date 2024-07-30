@@ -1,0 +1,212 @@
+[
+    {
+        "Mentee Sub-County":"Mvita",
+        "Mentor Sub-County":"Nyali",
+        "Distance (meters)":311
+    },
+    {
+        "Mentee Sub-County":"Mvita",
+        "Mentor Sub-County":"Mvita",
+        "Distance (meters)":0
+    },
+    {
+        "Mentee Sub-County":"Mvita",
+        "Mentor Sub-County":"Likoni",
+        "Distance (meters)":9889
+    },
+    {
+        "Mentee Sub-County":"Mvita",
+        "Mentor Sub-County":"Kisauni",
+        "Distance (meters)":5130
+    },
+    {
+        "Mentee Sub-County":"Mvita",
+        "Mentor Sub-County":"Changamwe",
+        "Distance (meters)":11070
+    },
+    {
+        "Mentee Sub-County":"Mvita",
+        "Mentor Sub-County":"Jomvu",
+        "Distance (meters)":14944
+    },
+    {
+        "Mentee Sub-County":"Kisauni",
+        "Mentor Sub-County":"Nyali",
+        "Distance (meters)":4808
+    },
+    {
+        "Mentee Sub-County":"Kisauni",
+        "Mentor Sub-County":"Mvita",
+        "Distance (meters)":5120
+    },
+    {
+        "Mentee Sub-County":"Kisauni",
+        "Mentor Sub-County":"Likoni",
+        "Distance (meters)":8533
+    },
+    {
+        "Mentee Sub-County":"Kisauni",
+        "Mentor Sub-County":"Kisauni",
+        "Distance (meters)":0
+    },
+    {
+        "Mentee Sub-County":"Kisauni",
+        "Mentor Sub-County":"Changamwe",
+        "Distance (meters)":9715
+    },
+    {
+        "Mentee Sub-County":"Kisauni",
+        "Mentor Sub-County":"Jomvu",
+        "Distance (meters)":13589
+    },
+    {
+        "Mentee Sub-County":"Likoni",
+        "Mentor Sub-County":"Nyali",
+        "Distance (meters)":11527
+    },
+    {
+        "Mentee Sub-County":"Likoni",
+        "Mentor Sub-County":"Mvita",
+        "Distance (meters)":11839
+    },
+    {
+        "Mentee Sub-County":"Likoni",
+        "Mentor Sub-County":"Likoni",
+        "Distance (meters)":0
+    },
+    {
+        "Mentee Sub-County":"Likoni",
+        "Mentor Sub-County":"Kisauni",
+        "Distance (meters)":10432
+    },
+    {
+        "Mentee Sub-County":"Likoni",
+        "Mentor Sub-County":"Changamwe",
+        "Distance (meters)":12484
+    },
+    {
+        "Mentee Sub-County":"Likoni",
+        "Mentor Sub-County":"Jomvu",
+        "Distance (meters)":16357
+    },
+    {
+        "Mentee Sub-County":"Changamwe",
+        "Mentor Sub-County":"Nyali",
+        "Distance (meters)":10678
+    },
+    {
+        "Mentee Sub-County":"Changamwe",
+        "Mentor Sub-County":"Mvita",
+        "Distance (meters)":10990
+    },
+    {
+        "Mentee Sub-County":"Changamwe",
+        "Mentor Sub-County":"Likoni",
+        "Distance (meters)":10536
+    },
+    {
+        "Mentee Sub-County":"Changamwe",
+        "Mentor Sub-County":"Kisauni",
+        "Distance (meters)":9583
+    },
+    {
+        "Mentee Sub-County":"Changamwe",
+        "Mentor Sub-County":"Changamwe",
+        "Distance (meters)":0
+    },
+    {
+        "Mentee Sub-County":"Changamwe",
+        "Mentor Sub-County":"Jomvu",
+        "Distance (meters)":5581
+    },
+    {
+        "Mentee Sub-County":"Jomvu",
+        "Mentor Sub-County":"Nyali",
+        "Distance (meters)":14542
+    },
+    {
+        "Mentee Sub-County":"Jomvu",
+        "Mentor Sub-County":"Mvita",
+        "Distance (meters)":14853
+    },
+    {
+        "Mentee Sub-County":"Jomvu",
+        "Mentor Sub-County":"Likoni",
+        "Distance (meters)":14399
+    },
+    {
+        "Mentee Sub-County":"Jomvu",
+        "Mentor Sub-County":"Kisauni",
+        "Distance (meters)":13446
+    },
+    {
+        "Mentee Sub-County":"Jomvu",
+        "Mentor Sub-County":"Changamwe",
+        "Distance (meters)":5612
+    },
+    {
+        "Mentee Sub-County":"Jomvu",
+        "Mentor Sub-County":"Jomvu",
+        "Distance (meters)":0
+    },
+    {
+        "Mentee Sub-County":"Nyali",
+        "Mentor Sub-County":"Nyali",
+        "Distance (meters)":0
+    },
+    {
+        "Mentee Sub-County":"Nyali",
+        "Mentor Sub-County":"Mvita",
+        "Distance (meters)":311
+    },
+    {
+        "Mentee Sub-County":"Nyali",
+        "Mentor Sub-County":"Likoni",
+        "Distance (meters)":9577
+    },
+    {
+        "Mentee Sub-County":"Nyali",
+        "Mentor Sub-County":"Kisauni",
+        "Distance (meters)":4819
+    },
+    {
+        "Mentee Sub-County":"Nyali",
+        "Mentor Sub-County":"Changamwe",
+        "Distance (meters)":10759
+    },
+    {
+        "Mentee Sub-County":"Nyali",
+        "Mentor Sub-County":"Jomvu",
+        "Distance (meters)":14633
+    },
+    {
+        "Mentee Sub-County":"Others (Outside Mombasa)",
+        "Mentor Sub-County":"Nyali",
+        "Distance (meters)":4460
+    },
+    {
+        "Mentee Sub-County":"Others (Outside Mombasa)",
+        "Mentor Sub-County":"Mvita",
+        "Distance (meters)":4771
+    },
+    {
+        "Mentee Sub-County":"Others (Outside Mombasa)",
+        "Mentor Sub-County":"Likoni",
+        "Distance (meters)":5222
+    },
+    {
+        "Mentee Sub-County":"Others (Outside Mombasa)",
+        "Mentor Sub-County":"Kisauni",
+        "Distance (meters)":3364
+    },
+    {
+        "Mentee Sub-County":"Others (Outside Mombasa)",
+        "Mentor Sub-County":"Changamwe",
+        "Distance (meters)":6336
+    },
+    {
+        "Mentee Sub-County":"Others (Outside Mombasa)",
+        "Mentor Sub-County":"Jomvu",
+        "Distance (meters)":10210
+    }
+]
